@@ -1,0 +1,14 @@
+.listItem {
+    list-style: none;
+    
+}
+
+
+img {
+   /* object-fit: cover;
+   object-position: center; */
+   max-width: 400px;
+   max-height: 350px;
+   border-radius: 10px;
+}
+
